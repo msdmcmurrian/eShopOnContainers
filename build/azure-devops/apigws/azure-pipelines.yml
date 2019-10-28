@@ -1,7 +1,7 @@
 pool:
   vmImage: 'ubuntu-16.04'
 variables:
-    registryEndpoint: darnelldevregistry.azurecr.io
+    registryEndpoint: darnelldevregistry
 trigger:
   branches:
     include:
